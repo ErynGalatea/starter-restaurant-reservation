@@ -63,7 +63,7 @@ function hasReservationDateTime(req, res, next) {
   if (!dateFormat.test(data.reservation_date))
     return next({ status: 400, message: "reservation_date field is invalid" });
 
-  if (new Date(data["reservation_date"]).getDay() + 1 === 2) {
+  if (new Date(data["reservation_date"]).getDay() === 2) {
     next({
       status: 400,
       message: `The restaurant is closed on Tuesdays, please pick a day when we are open!`,
