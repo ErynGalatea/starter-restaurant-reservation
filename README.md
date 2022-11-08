@@ -1,12 +1,4 @@
-Periodic Tables Fullstack Reservation System!
 
-This app can be found live here: https://dashboard.heroku.com/apps/reservations-capstone-user
-
-Documentation of the API can be found below. I built the front-end and back-end from scratch on top of a basic but otherwise starter server.
-
-example screenshots of the application can be found here:
-
-https://imgur.com/a/iHYXWxf
 
 Make sure to run npm install before any local commands or edits
 
