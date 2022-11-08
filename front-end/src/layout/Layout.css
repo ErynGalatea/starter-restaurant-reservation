@@ -1,4 +1,40 @@
 .side-bar {
-  background-color: #393a44;
+  background-color: #525238;
   min-width: 200px;
 }
+
+@media only screen and (min-width: 767px) {
+  .side-bar {
+    border-radius: 0 0 300px 0 
+  }
+}
+
+body {
+  background-image: url("https://media.olivegarden.com/images/site/ext/pages/_promotions/specials/landing/background-texture-480-60.jpg");
+  background-color: #cccccc;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+ }
+
+ th {
+  color: #54301a;
+ }
+ 
+ h1 {
+  color: #54301a;
+ }
+
+ h4 {
+  color: #54301a;
+ }
+
+ button.btn.btn-warning {
+  background-color: #aa2d29;
+  color: #fff;
+ }
+
+ button.btn.btn-success {
+  background-color: #a8ad00;
+  color: #fff;
+ }
