@@ -1,12 +1,4 @@
-Periodic Tables Fullstack Reservation System!
 
-This app can be found live here: https://dashboard.heroku.com/apps/reservations-capstone-user
-
-Documentation of the API can be found below. I built the front-end and back-end from scratch on top of a basic but otherwise starter server.
-
-example screenshots of the application can be found here:
-
-https://imgur.com/a/iHYXWxf
 
 Make sure to run npm install before any local commands or edits
 
@@ -16,8 +8,10 @@ To view tests enter npm run test
 
 The technology used for this application was widely varied, from Javascript, to HTML, to React, to Bootstrap - which comprised the front-end. Postgres / ElephantSQL, express, and express comprised the back-end as well as the database.
 
-The user stories below serve as the summary section specifics, as well as a summary of all the work done on the project as a whole! In short what the application does is allows users to reserve seating for customers, or even customers to reserve for themselves at various tables
+The user stories below serve as the summary section specifics, as well as a summary of the project as a whole. What the application does is allows users to reserve seating for customers, or even customers to reserve for themselves at various tables
 and times in a restaurant.
+
+![Dashboard Screenshot](https://i.imgur.com/U50PFlh.jpg)
 
 # Capstone: Restaurant Reservation System
 
